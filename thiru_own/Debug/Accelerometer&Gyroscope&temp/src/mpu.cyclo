@@ -1,0 +1,7 @@
+../Accelerometer&Gyroscope&temp/src/mpu.c:12:6:MPU6050_Init	2
+../Accelerometer&Gyroscope&temp/src/mpu.c:46:6:MPU6050_Read_Accel	1
+../Accelerometer&Gyroscope&temp/src/mpu.c:66:6:MPU6050_Read_Gyro	1
+../Accelerometer&Gyroscope&temp/src/mpu.c:86:6:MPU6050_Read_Temp	1
+../Accelerometer&Gyroscope&temp/src/mpu.c:96:6:MPU6050_Read_All	6
+../Accelerometer&Gyroscope&temp/src/mpu.c:165:6:MPU6050_Validate_Data	9
+../Accelerometer&Gyroscope&temp/src/mpu.c:185:6:MPU6050_Read_All_Safe	6

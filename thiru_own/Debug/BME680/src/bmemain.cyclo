@@ -1,0 +1,6 @@
+../BME680/src/bmemain.c:15:8:user_i2c_read	1
+../BME680/src/bmemain.c:21:8:user_i2c_write	1
+../BME680/src/bmemain.c:27:6:user_delay_ms	1
+../BME680/src/bmemain.c:31:6:I2C_Scan	3
+../BME680/src/bmemain.c:54:8:BME680_Initialize	8
+../BME680/src/bmemain.c:120:8:BME680_Configure	2
